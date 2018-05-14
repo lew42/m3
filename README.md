@@ -1,6 +1,18 @@
 # m3 (Monetized Module Marketplace)
 
-Most open source projects lack the exposure and funding to really take off.  Most closed source projects lack the community to really mature.
+Objectives:
+* maintain the advantages of free open source software
+* provide repository owners advanced licensing controls to monetize their work 
+
+Software monetization is essential for success.  In my opinion, this is the primary limitation of open source software, and the only reason why proprietary software still exists.  
+
+Most open source projects lack the funding to really take off.  Most closed source projects lack the community of contributors like open source projects. 
+
+I see a future with the best of both:
+* advanced licensing control of the module/api
+* advanced source code access control (via encryption)
+
+Repository owners would be able to retire early.  They would be able to allow their 
 
 In the future, we'll have the best of both.  Repository owners need sophisticated controls over their code, how they license it, etc.
 
